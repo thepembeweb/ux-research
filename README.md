@@ -14,7 +14,7 @@ In the wake of Covid-19, virtually all high school students around the world hav
 
 Our team wants to learn about how high schoolers use digital products to augment their learning experience at school as well as how they engage with popular chat-based applications. We want to determine what opportunities and needs might exist for new educational chat-based products so that we can use these findings to help us shape the direction we take in developing our product.
 
-## UX Research tasks
+## UX Research Tasks
 * Select the design problem
 * Create the research plan
 * Write interview questions
@@ -25,6 +25,12 @@ Our team wants to learn about how high schoolers use digital products to augment
 * Run a survey study
 * Sketch the design for at least one screen of the product
 
+## Research Documents
+
+* [Research Plan](Research-plan.pdf)
+* [Research Report](Research-report.pdf)
+* [Design Sketch](Design-sketch.pdf)
+
 ## Built With
 
 * [Miro](https://miro.com/) - The affinity diagramming tool used
@@ -32,7 +38,7 @@ Our team wants to learn about how high schoolers use digital products to augment
 
 ## Authors
 
-* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Show Me the Data Structures](https://github.com/thepembeweb/show-me-the-data-structures)
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [UX Research](https://github.com/thepembeweb/ux-research)
 
 ## License
 
