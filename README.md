@@ -1,6 +1,6 @@
 # UX Research
 
-> This project showcases UX research into the feasibility of creating digital products aimed at keeping high schoolers engaged during Covid-19 times.
+> This project showcases UX research into the feasibility of creating digital products aimed at keeping high schoolers engaged in their schoolwork at home during Covid-19 times.
 
 ![](corona-vs-student.jpg)
 
