@@ -15,15 +15,15 @@ In the wake of Covid-19, virtually all high school students around the world hav
 Our team wants to learn about how high schoolers use digital products to augment their learning experience at school as well as how they engage with popular chat-based applications. We want to determine what opportunities and needs might exist for new educational chat-based products so that we can use these findings to help us shape the direction we take in developing our product.
 
 ## UX Research Tasks
-* Select the design problem
-* Create the research plan
-* Write interview questions
-* Recruit participants for an interview study
-* Run the interview study
-* Organize and analyze the data from your interviews
-* Create the research report
-* Run a survey study
-* Sketch the design for at least one screen of the product
+* Selected the design problem
+* Created the research plan
+* Wrote interview questions
+* Recruited participants for an interview study
+* Ran the interview study
+* Organized and analyzed the data from your interviews
+* Created the research report
+* Ran a survey study
+* Sketched the design for at least one screen of the product
 
 ## Research Documents
 
